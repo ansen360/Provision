@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SetupWizard</string>
+    <string name="welcome">Welcome</string>
+    <string name="next">Next</string>
+    <string name="welcome_use">Welcome to start using your phone</string>
+    <string name="use">Start Using</string>
+    <string name="no_sim">SIM card not detected</string>
+    <string name="sim_one">Insert the SIM card can be set up accounts, enjoy the account brought about by the synchronization</string>
+    <string name="find_phone">Retrieve the phone and other functions</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="go_on">Continue</string>
+    <string name="sim_checked">SIM card detection</string>
+    <string name="warranty_titile">The electronic card</string>
+    <string name="warranty_content">register electronic card</string>
+
+
+</resources>

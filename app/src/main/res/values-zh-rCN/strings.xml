@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">SetupWizard</string>
+    <string name="welcome">欢迎使用</string>
+    <string name="next">下一步</string>
+    <string name="welcome_use">欢迎开始使用手机</string>
+    <string name="use">开始使用</string>
+    <string name="no_sim">未检测到SIM卡</string>
+    <string name="sim_one">插入SIM卡才可设置账户,享受账户带来的同步、</string>
+    <string name="find_phone">找回手机等功能</string>
+    <string name="shutdown">关机</string>
+    <string name="go_on">仍然继续</string>
+    <string name="sim_checked">SIM卡检测</string>
+    <string name="warranty_titile">电子保卡</string>
+    <string name="warranty_content">触摸可注册电子保卡</string>
+
+</resources>
